@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔧 I'm an operations engineer, and currently working for [MicroStrategy](https://www.microstrategy.com/)
+- 🔧 I'm an operations engineer, and currently working at [MicroStrategy](https://www.microstrategy.com/)
 - 🌱 I’m currently learning Python, Go, Kubernetes
 - 💬 Ask me about Shell, Docker [here](https://github.com/xiangxiaoc/xiangxiaoc/issues)
 
