@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔧 I'm an operations engineer, and currently working at [Migu](https://www.migu.cn/about.html)
-- 🌱 I’m currently learning Python, Go, Kubernetes
+- 🔧 An operations engineer, currently working at [Migu](https://www.migu.cn/about.html)
+- 🌱 I’m learning Python, Go, Kubernetes
 - 💬 Ask me about Shell, Docker [here](https://github.com/xiangxiaoc/xiangxiaoc/issues)
 
 <!--BGN_SECTION:github-readme-stats-->
