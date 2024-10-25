@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=xiangxiaoc&count_private=true&show_icons=true" alt="xiangxiaoc's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangxiaoc" alt="xiangxiaoc's Top Langs" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangxiaoc&layout=donut" alt="xiangxiaoc's Top Langs" />
 </a>
 <!--END_SECTION:github-readme-stats-->
 
