@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔧 Ops engineer, currently working at [Migu](https://www.migu.cn/about.html)
+- 🔧 Ops engineer, currently working at [Migu](https://www.migu.cn/about.html) Hangzhou China
 - 🌱 I’m learning Golang, Vue, Istio 
 - 💬 Ask me about Shell, Docker [here](https://github.com/xiangxiaoc/xiangxiaoc/issues)
 
