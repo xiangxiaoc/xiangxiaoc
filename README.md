@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - 🔧 Ops engineer, currently working for [Migu](https://www.migu.cn/about.html) in Hangzhou, China
 - 🌱 I’m learning Golang, Vue, Istio 
 - 💬 Ask me about Shell, Docker, Jenkins, ArgoCD/Rollouts [here](https://github.com/xiangxiaoc/xiangxiaoc/issues)
-- 📫 How to reach me: https://xiangcheng.site
-- 📧 xiangxiaoc@outlook.com
+- 📫 How to reach me: xiangxiaoc@outlook.com
+- 🌐 My Blog: https://xiangcheng.site
+
 
 <!--BGN_SECTION:github-readme-stats-->
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
